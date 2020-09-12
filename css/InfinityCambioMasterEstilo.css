@@ -1,0 +1,100 @@
+﻿html { scroll-behavior: smooth; background-color: #f4f4f4; }
+
+body { padding: 0; margin: 0; margin-bottom: -17px; }
+
+/* Padronização */
+	/* Alinhamento */
+		.fl { float: left; }
+		.cls { clear:both; }
+		.fi { float: inherit; }
+		.fr { float: right; }
+	/* Alinhamento */
+
+	/* Teste Cores */
+		.cor1 { background-color: #439686; }
+		.cor2 { background-color: #203851; }
+		.cor3 { background-color: #211551; }
+		.cor4 { background-color: #6d1155; }
+		.cor5 { background-color: #3ea045; }
+	/* Teste Cores */
+/* Padronização */
+
+/* HTML */
+
+	/* Header */
+		header { width: 100%; margin: 0; padding: 0; position: fixed; 
+		background-color: #fff; z-index: 0; font-family: Miramonte; 
+		height: 56px; border-bottom: 1px solid #e5e5e5; top: 0; }
+
+		#menu { text-align: center; list-style: none; padding-top: 12px; 
+		margin: auto; width: 398px; height: 40px; font-weight: bold; }
+
+		#menu ul { margin-top: -1px; font-size: 20px; margin: 0 auto; }
+
+		#menu li { display: inline; }
+
+		#menu li a { width: 100px; display: inline-block; color: #3a2aff; 
+		text-decoration: none; margin-right: 10px; transition: 0.1s; 
+		margin-top: -17px; }
+
+		#menu li a:hover { color: #141047; }
+
+		.logo { width: 150px; height: 150px; margin-top: 3px; padding: 0px; 
+		margin-left: 45px; }
+	/* Header */
+	
+	/* Footer */
+		.conteudoFooter { margin-bottom: -16px; }
+
+		.rodape { padding-top: 1px; padding-bottom: 1px;
+		background-color: #3a2aff; color: #fff; text-align: center; 
+		font-family: Miramonte; }
+	/* Footer */
+	
+/* HTML */
+
+/* Responsividade */
+    /* MEDIA QUERY */
+        /* CELULAR DE PÉ */
+        @media screen and (max-width: 450px) 
+        {
+            header { width: 100%; margin: 0; padding: 0; position: fixed; 
+		    background-color: #f3f6fb; z-index: 0; font-family: Miramonte; 
+		    height: 35px; border-bottom: 1px solid #e5e5e5; top: 0; height: 4%; }
+
+		    #menu { text-align: center; list-style: none; padding-top: 1px; 
+		    margin: auto; width: 382px; height: 46px; font-weight: bold; }
+
+		    #menu ul { font-size: 25px; margin: 0 auto; }
+
+		    #menu li { display: inline; }
+
+		    #menu li a { width: 100px; display: inline-block; color: #3a2aff; 
+		    text-decoration: none; transition: 0.1s; 
+		    margin-top: -17px; }
+
+		    #menu li a:hover { color: #141047; }
+            
+            #imgLogo { height: 45px; }
+            
+            .rodape { width: 770px; height: 155px; margin-top: 65px; padding-bottom: 176px; }
+            
+            .conteudoFooter { margin-top: 120px; font-size: 45px; }
+        }
+        /* CELULAR DEITADO */
+        @media screen and (min-width: 451px) and (max-width: 650px) 
+        {
+            .rodape { margin-top: -37px; width: 770px; }
+        }
+
+        /* TABLET DE PÉ */
+        @media screen and (min-width: 651px) and (max-width: 960px) 
+        {
+            .rodape { width: 770px; margin-top: 60px; padding-bottom: 22px; }
+            .conteudoFooter { font-size: 24px; }
+            header { height: 67px; }
+            #menu ul { font-size: 25px; }
+            #imgLogo { height: 52px; margin-top: 7px; }
+            
+        }
+/* Responsividade */

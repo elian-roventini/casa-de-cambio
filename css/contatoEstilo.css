@@ -1,0 +1,116 @@
+﻿body { margin: 0; padding: 0; }
+
+main { height: 916px; margin-top: 116px;}
+
+.tituloSobre{ height: 128px; width: 670px; margin-top: 110px;
+text-align: center; font-family: Gadugi; font-weight: bold; 
+background-color: #fff; border-bottom: 1px solid #cecedb; 
+margin: 0 auto; }
+
+.tituloSobre span { font-size: 34px; color: #3a2aff; }
+
+.tituloSobre p { font-size: 20px; padding-right: 21px; padding-left: 21px; 
+color: #3b3d42; }
+
+/* Box Contato */
+	.contato { height: 595px; width: 670px; margin: 0 auto; 
+	background-color: #fff; border-radius: 0px 0px 10px 10px; 
+	box-shadow: 0px 4px 5px 0px rgba(0,0,0,0.09); }
+
+	.tituloContato { text-align: center; }
+
+	.tituloContato p { font-size: 23px; color: #cecedb; }
+
+	.areaDeContato { margin: 15px; width: 392px; padding-top: 1px; }
+
+	.areaDeContato p { font-size: 23px; color: #3b3d42; margin-bottom: -10px; 
+	font-family: Gadugi; }
+
+	.telefoneBox { height: 360px; width: 252px; margin-top: 42px; 
+	margin-left: -10px; border-left: 1px solid #cecedb; font-family: Gadugi; 
+	padding-left: 5px; }
+
+	.telNumero { height: 76px; width: 252px; border-bottom: 1px solid #cecedb; }
+
+	.telNumero span { font-weight: bold; }
+/* Box Contato */
+
+/* Form */
+	/* Inputs */
+		input::placeholder { color: #cecedb; }
+
+		input[type=text]{ border: none; border-bottom: 1px solid #cecedb; font-size: 18px;
+		background-color: transparent; color: #3b3d42; font-family: Gadugi; width: 380px;
+		margin-bottom: 7px; }
+
+		input[type=email]{ border: none; border-bottom: 1px solid #cecedb; font-size: 18px;
+		background-color: transparent; color: #3b3d42; font-family: Gadugi; width: 380px;
+		margin-bottom: 7px; }
+
+		input[type=submit]{ border: none; border-bottom: 1px solid #cecedb; color: #3b3d42; 
+		font-family: Gadugi; width: 69px; font-size: 21px; margin-right: 3px; 
+		margin-top: 5px; border-radius: 9px 9px 0px 0px; }
+
+		input[type=submit]:hover{ background-color: #3b3d42; transition: 0.2s; color: #fff; }
+
+		textarea { border: none; border-bottom: 1px solid #cecedb; 
+		color: #3b3d42; font-family: Gadugi; font-size: 18px; resize: none; width: 385px; }
+
+		textarea:-webkit-placeholder { color: #cecedb; }
+		
+		#ContentPlaceHolder1_lblMensagem {color: #4a3fcc; font-weight: bold; font-size: 21px; }
+	/* Inputs */
+/* Form */
+
+/* CELULAR DE PÉ */
+        @media screen and (max-width: 450px) 
+        {
+          .tituloSobre { width: 770px; }
+          .tituloSobre span { font-size: 45px; }
+          .contato { width: 770px; height: 700px; margin-top: 43px; }
+          input[type=text] { font-size: 28px; }
+          .areaDeContato p { font-size: 32px; }
+          textarea { font-size: 21px; }
+          .descTelefone { font-size: 22px; }
+          span { font-size: 32px; }
+          p { font-size: 25px; margin-top: -1px; }
+          input[type=submit] { font-size: 36px; margin-right: -45px;  width: 115px; }
+          .rodape { width: 770px; height: 155px; margin-top: -40px; padding-bottom: 220px; }
+          .conteudoFooter { font-size: 44px; }
+          .footerzinho { font-size: 44px; }
+        }
+
+        /* CELULAR DEITADO */
+        @media screen and (min-width: 451px) and (max-width: 650px) 
+        {
+         .tituloSobre { width: 770px; }
+          .tituloSobre span { font-size: 45px; }
+          .contato { width: 770px; height: 700px; margin-top: 43px; }
+          input[type=text] { font-size: 28px; }
+          .areaDeContato p { font-size: 32px; }
+          textarea { font-size: 21px; }
+          .descTelefone { font-size: 22px; }
+          span { font-size: 32px; }
+          p { font-size: 25px; margin-top: -1px; }
+          input[type=submit] { font-size: 36px; margin-right: -45px;  width: 115px; }
+          .rodape { width: 770px; height: 60px; margin-top: -40px; padding-bottom: 15px; }
+          .footerzinho { font-size: 30px; }
+
+        }
+
+        /* TABLET DE PÉ */
+        @media screen and (min-width: 651px) and (max-width: 960px) 
+        {
+          .tituloSobre { width: 770px; }
+          .tituloSobre span { font-size: 45px; }
+          .contato { width: 770px; height: 700px; margin-top: 43px; }
+          input[type=text] { font-size: 28px; }
+          .areaDeContato p { font-size: 32px; }
+          textarea { font-size: 21px; }
+          .descTelefone { font-size: 22px; }
+          span { font-size: 32px; }
+          p { font-size: 25px; margin-top: -1px; }
+          input[type=submit] { font-size: 36px; margin-right: -45px;  width: 115px; }
+          .rodape { width: 770px; height: 60px; margin-top: -40px; padding-bottom: 15px; }
+          .footerzinho { font-size: 30px; }
+        }

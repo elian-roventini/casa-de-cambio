@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="InfinityCambio.master.cs" Inherits="PrjCasadeCambio.InfinityCambio" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/InfinityCambioMasterEstilo.css">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <header>
+        <div class="logo fl">
+            <a href="index.aspx"><img src="images/logo/LogoInfinityCambioTeste.png" 
+            height="49" alt="Voltar a home" title="Voltar a home" id="imgLogo">
+            </a>
+        </div>
+        <nav id="menu" class="fl fi">
+            <ul>
+                <li><a href="conversor.aspx"><p class="pMenu">Conversor</p></a></li>
+                <li><a href="sobre.aspx"><p class="pMenu">Sobre</p></a></li>
+                <li><a href="contato.aspx"><p class="pMenu">Contato</p></a></li>
+            </ul>
+            <div class="cls"></div>
+        </nav>
+    </header>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+    </div>
+    <footer class="rodape">
+        <div class="conteudoFooter">
+            <p class="footerzinho">Copyright © 2018 | Infinity Câmbio | Desenvolvido por: Denzel e Elián</p>
+        </div>
+    </footer>
+    </form>
+</body>
+</html>

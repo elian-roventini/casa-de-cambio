@@ -1,0 +1,27 @@
+C:\Users\32635\Desktop\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.dll
+C:\Users\32635\Desktop\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.pdb
+C:\Users\32635\Desktop\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.dll
+C:\Users\32635\Desktop\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.pdb
+F:\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.dll
+F:\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.pdb
+F:\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.dll
+F:\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.pdb
+I:\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.dll
+I:\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.pdb
+I:\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.dll
+I:\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.pdb
+G:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.dll
+G:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.pdb
+G:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.dll
+G:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.pdb
+D:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.dll
+D:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.pdb
+D:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.dll
+D:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.pdb
+I:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.dll
+I:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\bin\PrjCasadeCambio.pdb
+I:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.dll
+I:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.pdb
+F:\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.csprojResolveAssemblyReference.cache
+I:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.csprojResolveAssemblyReference.cache
+D:\ETEC\2º Módulo\CPR\Atividades\Casa de câmbio\PrjCasadeCambio\PrjCasadeCambio\obj\Debug\PrjCasadeCambio.csprojResolveAssemblyReference.cache

@@ -1,0 +1,86 @@
+﻿article { margin-top: 217px; margin-bottom: 301px; 
+font-family: Gadugi; } 
+
+.centro { text-align: center; padding-left: 126px; padding-right: 2px; }
+.direita { text-align: right; }
+
+.box
+{
+	width: 300px;
+	margin: 10px auto;
+	background-color: #fff;
+}
+
+.contBox
+{
+    width: 482px;
+	margin:10px auto;
+	padding: 10px;
+	background-color: #fff;
+	border:thin solid #b8b8b8;
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+	position: relative;
+	border-radius:10px;
+}
+
+.contBox h1 { padding: 0px; border-radius: 7px; font-size: 27px; color: #3a2aff; text-align: center; }
+.contBox table { width: 93%; bottom: 10px;}
+.contBox table td.col1_1 { width: 97px; }
+.contBox input[type='text'] { width: 80px; padding-left: 5px; }
+.contBox select { width: 89px; padding:2px;}
+
+.btnConverter { margin-top: 5px; background-color: #3a2aff; color:#fff; border:none; cursor:pointer; 
+border-radius:10px; padding: 7px; width: 100px; padding-left: 7px; margin-right: -132px; }
+
+footer {padding-top: 1px;
+    padding-bottom: 2px;
+    background-color: #3a2aff;
+    color: #fff;
+    text-align: center;
+    font-family: Miramonte;
+    margin-top: -2%;}
+
+#ContentPlaceHolder1_lblResultado { color: #4a3fcc; font-weight: bold; font-size: 21px; } 
+
+/* CELULAR DE PÉ */
+        @media screen and (max-width: 450px) 
+        {
+            .contBox select { width: 180px; height: 42px; }
+            .contBox h1 { font-size: 40px; }
+            .contBox table td.col1_1 { width: 97px; font-size: 30px; }
+            .para { font-size: 30px; }
+            #ContentPlaceHolder1_txtValor { width: 180px; height: 42px; }
+            .contBox { margin-left: 82px; padding: 65px; }
+            .btnConverter { width: 160px; font-size: 32px; }
+            .rodape { height: 187px; padding-bottom: 146px; }
+        }
+
+        /* CELULAR DEITADO */
+        @media screen and (min-width: 451px) and (max-width: 650px) 
+        {
+           contBox select { width: 180px; height: 42px; }
+            .contBox h1 { font-size: 40px; }
+            .contBox table td.col1_1 { width: 97px; font-size: 30px; }
+            .para { font-size: 30px; }
+            #ContentPlaceHolder1_txtValor { width: 180px; height: 42px; }
+            .contBox { margin-left: 82px; padding: 65px; }
+            .btnConverter { width: 160px; font-size: 32px; }
+            .rodape { height: 187px; }
+            .conteudoFooter { font-size: 23px; margin-top: 75px; }
+        }
+
+        /* TABLET DE PÉ */
+        @media screen and (min-width: 651px) and (max-width: 960px) 
+        {
+            contBox select { width: 180px; height: 42px; }
+            .contBox h1 { font-size: 40px; }
+            .contBox table td.col1_1 { width: 97px; font-size: 30px; }
+            .para { font-size: 30px; }
+            #ContentPlaceHolder1_txtValor { width: 180px; height: 42px; }
+            .contBox { margin-left: 82px; padding: 65px; }
+            .btnConverter { width: 160px; font-size: 32px; }
+            .rodape { height: 187px; }
+            .conteudoFooter { font-size: 23px; margin-top: 75px; }
+        }
+        
+ 
